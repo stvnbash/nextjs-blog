@@ -1,3 +1,29 @@
+## About this project
+- This project is following the [Next.js Crash Course](https://youtu.be/mTz0GXj8NN0) tutorial by Traversy Media.
+- By Steven Bash
+---
+---
+## Note
+Success! Created next-crash-course at C:\Users\S.Bash\next-crash-course
+Inside that directory, you can run several commands:
+
+  `npm run dev`
+   - Starts the development server.
+
+  `npm run build`
+   - Builds the app for production.
+
+  `npm start`
+   - Runs the built app in production mode.
+
+We suggest that you begin by typing:
+
+ - `cd next-crash-course`
+ - `npm run dev`
+
+---
+---
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
